@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TP.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <!--le contenu de la page-->
+
+
+        <Grid VerticalOptions="Start" BackgroundColor="#58B0F0">
+            <!--la barre de nav en haut-->
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Nouveau"    Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+            <Label Text="Accueil"    Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+            <Label Text="Rechercher" Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+
+        </Grid>
+
+
+        <ScrollView VerticalOptions="FillAndExpand">
+            <!--la zone de scroll au milieu-->
+
+            <Grid>
+                <!--la première ligne avec le contenu du tweet et ses options-->
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Row="0" Grid.ColumnSpan="3" Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a sem porta, hendrerit ante et, convallis quam. In at ex in risus fringilla tincidunt. Aliquam erat volutpat. Vestibulum placerat metus nisi, vitae molestie neque ornare vitae. Curabitur posuere vulputate placerat. Ut ut neque urna. Mauris id nisl vitae nulla mattis aliquam. Ut risus sem, ultrices et vulputate porttitor, blandit id massa. Aliquam consequat mattis lectus hendrerit commodo."/>
+
+                <!--les 3 options sous chaque tweet-->
+                <Label Text="Répondre" Grid.Row="1" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+                <Label Text="Retweet"  Grid.Row="1" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+                <Label Text="Favoris"  Grid.Row="1" Grid.Column="2" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+
+
+            </Grid>
+
+
+
+        </ScrollView>
+
+
+        <Grid VerticalOptions="End" >
+            <!--la barre des boutons en bas-->
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Fil"           Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+            <Label Text="Notifications" Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+            <Label Text="Messages"      Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+            <Label Text="Moi"           Grid.Row="0" Grid.Column="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+
+        </Grid>
+
+    </StackLayout>
+
+</ContentPage>

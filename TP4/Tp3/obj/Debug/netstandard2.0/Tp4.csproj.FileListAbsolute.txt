@@ -1,0 +1,13 @@
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\bin\Debug\netstandard2.0\Tp4.deps.json
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\bin\Debug\netstandard2.0\Tp4.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\bin\Debug\netstandard2.0\ref\Tp4.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\bin\Debug\netstandard2.0\Tp4.pdb
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\Tp4.csprojAssemblyReference.cache
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\Tp4.AssemblyInfoInputs.cache
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\Tp4.AssemblyInfo.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\Tp4.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\ref\Tp4.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP4\Tp3\obj\Debug\netstandard2.0\Tp4.pdb

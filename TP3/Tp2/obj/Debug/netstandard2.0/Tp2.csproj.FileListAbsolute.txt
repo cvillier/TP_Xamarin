@@ -1,0 +1,13 @@
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\bin\Debug\netstandard2.0\Tp2.deps.json
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\bin\Debug\netstandard2.0\Tp2.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\bin\Debug\netstandard2.0\ref\Tp2.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\bin\Debug\netstandard2.0\Tp2.pdb
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\Tp2.csprojAssemblyReference.cache
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\Tp2.AssemblyInfoInputs.cache
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\Tp2.AssemblyInfo.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\Tp2.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\ref\Tp2.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Correction&Demo\Tp2\Tp2\obj\Debug\netstandard2.0\Tp2.pdb

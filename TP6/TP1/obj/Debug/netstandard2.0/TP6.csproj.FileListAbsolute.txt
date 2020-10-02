@@ -1,0 +1,14 @@
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\bin\Debug\netstandard2.0\TP6.deps.json
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\bin\Debug\netstandard2.0\TP6.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\bin\Debug\netstandard2.0\ref\TP6.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\bin\Debug\netstandard2.0\TP6.pdb
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\TP6.csprojAssemblyReference.cache
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\Views\TweetView.xaml.g.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\TP6.AssemblyInfoInputs.cache
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\TP6.AssemblyInfo.cs
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\TP6.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\ref\TP6.dll
+C:\Users\cvillier2020\Desktop\Xamarin\Projets Visual Studio\TP\TP6\TP1\obj\Debug\netstandard2.0\TP6.pdb
